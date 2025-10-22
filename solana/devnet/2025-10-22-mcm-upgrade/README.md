@@ -1,6 +1,6 @@
 # MCM Program Upgrade via Multi-Chain Multisig
 
-Status: PENDING
+Status: [EXECUTED](https://solscan.io/tx/5cqjb6boxTizf75bUGRxfRt3sna7VxehDnW1dsy7FhzdPsBhimrrXdP2TUMxz1VXEkHGv2nsqb53tujEKHBR5UXJ?cluster=devnet)
 
 ## Description
 
@@ -34,7 +34,7 @@ These values are in the `.env` file and the generated `proposal.json`.
 ### 4. Sign the proposal
 
 ```bash
-make mcm-sign
+make sign
 ```
 
 This command will:
